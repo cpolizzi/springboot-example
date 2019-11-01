@@ -1,0 +1,7 @@
+.*.swp
+target/
+galaxy/
+src/main/java/META-INF/MANIFEST.MF
+.classpath
+.project
+.settings/
